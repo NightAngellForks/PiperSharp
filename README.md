@@ -4,7 +4,7 @@
 [![dotnet](https://github.com/Lyx52/PiperSharp/actions/workflows/dotnet.yml/badge.svg?branch=master)](https://github.com/Lyx52/PiperSharp/actions/workflows/dotnet.yml)
 [![License: MIT](https://img.shields.io/github/license/Lyx52/PiperSharp)](https://github.com/Lyx52/PiperSharp/blob/master/LICENSE)
 
-A simple C# wrapper of [piper](https://github.com/rhasspy/piper) TTS application. Similar to piper you can checkout models [here](https://rhasspy.github.io/piper-samples/) and models from [huggingface](https://huggingface.co/rhasspy/piper-voices/tree/v1.0.0), 
+A simple C# wrapper of [piper1-gpl](https://github.com/OHF-Voice/piper1-gpl/) TTS application. Similar to piper you can checkout models [here](https://rhasspy.github.io/piper-samples/) and models from [huggingface](https://huggingface.co/rhasspy/piper-voices/tree/v1.0.0), 
 checkout **PiperDownloader** usage.
 
 ## Usage
